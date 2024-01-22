@@ -22,6 +22,8 @@ I'm currently learning and interested in bioinformatics and general software dev
 
 ## 🎯 Current Projects
 
+I'm currently working through the bioinformatics problems on the platform Rosalind. I put the most interesting projects on here as well, but you can also find my Rosalind profile here: https://rosalind.info/users/jooshwells/
+
 ## 💻 Hackathons Attended
 
 Knight Hacks 2023
