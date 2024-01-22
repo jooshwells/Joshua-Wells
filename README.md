@@ -23,8 +23,18 @@ I'm currently learning and interested in bioinformatics and general software dev
 ## 🎯 Current Projects
 
 ## 💻 Hackathons Attended
+
+Knight Hacks 2023
+- First hackathon attended as an undergraduate
+- Learned some fundamentals of the React framework
+- Check out my groups project here! https://github.com/mathew-b27/sportsLosses
   
 ## 🚀 Interests
+
+As for my non-coding interests:
+
+-📖 I enjoy reading new books whenever I have the chance
+-🎮 I also enjoy playing video games with my friends
 
 ## 📫 Let's Connect
 
