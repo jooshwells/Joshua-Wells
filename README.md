@@ -2,9 +2,9 @@
 
 ## About Me
 
-Hi there! My name is Joshua Wells, and I am a Honors Computer Science minoring in Biology at the University of Central Florida. Welcome to my GitHub profile!
+Hi there! My name is Joshua Wells, and I am a Honors Computer Science student at the University of Central Florida. Welcome to my GitHub profile!
 
-- 🌐 Find me on the web: [My LinkedIn](https://www.linkedin.com/in/joshuawellscsbio/)
+- 🌐 Find me on the web: [My LinkedIn](https://www.linkedin.com/in/joshuawellscs/)
 
 ## 🔧 Technologies & Tools
 
@@ -18,18 +18,19 @@ Here are some of the technologies and tools I frequently work with:
 
 ## 🌱 Current Learning
 
-I'm currently learning and interested in bioinformatics and general software development. Always eager to explore new things and broaden my knowledge!
-
-## 🎯 Current Projects
-
-I'm currently working through the bioinformatics problems on the platform Rosalind. I put the most interesting projects on here as well, but you can also find my Rosalind profile here: https://rosalind.info/users/jooshwells/
+I'm currently learning and interested in game development and general software development. Always eager to explore new things and broaden my knowledge!
 
 ## 💻 Hackathons Attended
 
-Knight Hacks 2023
+Knight Hacks VI
 - First hackathon attended as an undergraduate
 - Learned some fundamentals of the React framework
 - Check out my groups project here! https://github.com/mathew-b27/sportsLosses
+
+Knight Hacks VII
+- Second time participating in UCF's main hackathon
+- Learned the basics of working with Unity
+- Check out my group's project here! https://github.com/jooshwells/KnightroPlatformer
   
 ## 🚀 Interests
 
